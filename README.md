@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @costih
-- 👀 I’m interested in learning Java
+- 👀 I’m interested in coding in Java Java
 - 🌱 I’m currently studying for OCP Java 17 SE exam
 - 💞️ I’m looking to collaborate on any Java related projects in order to learn new things.
 - 📫 How to reach me ...
